@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Haru-boop456
+- 👋 Hi, I’m @digiment
 - 👀 I’m interested in anime and manga!
 - 🌱 I’m currently learning HTML and js.
 - 💞️ I’m looking to collaborate on any JRPG!
